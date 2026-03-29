@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there,
 
 <div align="center">
   <h1>🚀 Full-Stack Developer & AI Enthusiast</h1>
