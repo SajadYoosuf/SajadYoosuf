@@ -1,76 +1,69 @@
-# 👋 Hi there,
+# Sajad Yoosuf
+
+**Product-Focused Full-Stack Engineer** building scalable, high-performance applications with modern technologies.
+
+---
+
+## 🎯 About Me
+
+I'm a full-stack engineer passionate about designing and shipping products that solve real problems. I focus on clean code, system design, and leveraging the right tools for the job.
+
+- 🏗️ **Building:** Scalable web and mobile applications with focus on product quality
+- 💡 **Specializing in:** Full-stack development, API design, and cloud architecture
+- 🤝 **Collaborating on:** Open-source projects and innovative product development
+- 📍 **Based in:** [Your Location]
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <h1>🚀 Full-Stack Developer & AI Enthusiast</h1>
-  <p>Crafting high-performance applications with modern tech stacks.</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SajadYoosuf&show_icons=true&theme=nord&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadYoosuf&layout=compact&theme=nord&hide_border=true" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on building scalable web and mobile applications.
-- 🌱 I’m currently learning advanced system design and cloud architecture.
-- 👯 I’m looking to collaborate on open-source projects and innovative startups.
-- 💬 Ask me about **Flutter, FastApi, or React**.
-- 📫 How to reach me: [Link to LinkedIn/Email]
+## 🔗 Connect
 
----
-
-### 🛠 Tech Stack
-
-#### 🌐 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-#### 🚀 Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-#### 🧰 Tools & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajadYoosuf&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadYoosuf&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajadYoosuf&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-### 🤝 Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/SajadYoosuf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="https://github.com/SajadYoosuf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<br />
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SajadYoosuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SajadYoosuf&style=flat-square&color=blue" alt="Profile Views" />
 </div>
